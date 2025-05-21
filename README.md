@@ -19,22 +19,51 @@ Welcome to **Guess The Flag**, a fun and educational iOS game built using **Swif
   - Capsule-shaped flag buttons with shadows  
   - Smooth navigation using SwiftUI's `NavigationStack`  
   - Alert dialogs for game progress and scoring
+## 🧪 SwiftUI Concepts Demonstrated
 
-- 🧪 **SwiftUI Concepts Demonstrated**
-  	- @State for managing UI state
-  	- NavigationStack for view transitions
-	- Custom views and UI components
-	- Gradient styling with SwiftUI’s LinearGradient, RadialGradient, and AngularGradient
-	- Image rendering and layout
-	- Alerts and game logic using SwiftUI’s native components
-🚀 **Getting Started**
+- `@State` for managing UI state
+- `NavigationStack` for view transitions
+- Custom views and UI components
+- Gradient styling with SwiftUI's `LinearGradient`, `RadialGradient`, and `AngularGradient`
+- Image rendering and layout
+- Alerts and game logic using SwiftUI’s native components
 
-**Requirements**
-	- Xcode 15 or higher
-	- iOS 17 or later
-	- Swift 5.9+
+## 🚀 Getting Started
 
-** Running the App **
-	- Clone this repository
-	- Open the .xcodeproj or .xcodeworkspace file
-	- Build and run on a simulator or physical iOS device
+### Requirements
+- Xcode 15 or higher
+- iOS 17 or later
+- Swift 5.9+
+
+### Running the App
+1. Clone this repository
+2. Open the `.xcodeproj` or `.xcodeworkspace` file
+3. Build and run on a simulator or physical iOS device
+
+```bash
+git clone https://github.com/your-username/guess-the-flag.git
+cd guess-the-flag
+open GuessTheFlag.xcodeproj
+```
+
+## 🏁 Screenshots
+
+_Add screenshots here for better presentation._
+
+## 📚 Learning Objectives
+
+This project is ideal for beginners exploring:
+- SwiftUI basics and layout
+- Working with gradients and images
+- Handling user interaction and state
+- Organizing SwiftUI code in a modular structure
+
+## 🧑‍💻 Author
+
+**Your Name**  
+[Your GitHub Profile or Website]
+
+---
+
+🧠 *Guess The Flag* is both a learning exercise and a complete SwiftUI application designed to help new iOS developers explore the possibilities of modern UI design in Swift.
+"""
