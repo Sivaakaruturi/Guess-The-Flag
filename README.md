@@ -2,6 +2,9 @@
 
 Welcome to **Guess The Flag**, a fun and educational iOS game built using **SwiftUI**! This project challenges players to identify flags from around the world in a beautifully styled interface while showcasing the capabilities of SwiftUI.
 
+🧠 *Guess The Flag* is both a learning exercise and a complete SwiftUI application designed to help new iOS developers explore the possibilities of modern UI design in Swift.
+
+
 ## 📱 Features
 
 - 🎮 **Flag-Guessing Gameplay**  
@@ -41,14 +44,16 @@ Welcome to **Guess The Flag**, a fun and educational iOS game built using **Swif
 3. Build and run on a simulator or physical iOS device
 
 ```bash
-git clone https://github.com/your-username/guess-the-flag.git
-cd guess-the-flag
+git clone https://github.com/Sivaakaruturi/Guess-The-Flag.git
+cd Guess-The-Flag
 open GuessTheFlag.xcodeproj
 ```
 
 ## 🏁 Screenshots
 
-_Add screenshots here for better presentation._
+![Group@1x](https://github.com/user-attachments/assets/55af9ff6-15d9-4b1a-a9d9-1d3de79465c6)
+
+![Group 2@1x](https://github.com/user-attachments/assets/fdb3a149-8aae-4e24-a849-d44bd7e166bb)
 
 ## 📚 Learning Objectives
 
@@ -61,9 +66,7 @@ This project is ideal for beginners exploring:
 ## 🧑‍💻 Author
 
 **Your Name**  
-[Your GitHub Profile or Website]
+Karuturi Siva Rama Krishna
 
 ---
 
-🧠 *Guess The Flag* is both a learning exercise and a complete SwiftUI application designed to help new iOS developers explore the possibilities of modern UI design in Swift.
-"""
