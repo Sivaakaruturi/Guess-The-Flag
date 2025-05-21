@@ -35,6 +35,6 @@ Welcome to **Guess The Flag**, a fun and educational iOS game built using **Swif
 	- Swift 5.9+
 
 ** Running the App **
-	1.	Clone this repository
-	2.	Open the .xcodeproj or .xcodeworkspace file
-	3.	Build and run on a simulator or physical iOS device
+	- Clone this repository
+	- Open the .xcodeproj or .xcodeworkspace file
+	- Build and run on a simulator or physical iOS device
