@@ -9,13 +9,39 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        NavigationStack{
+            Form {
+                NavigationLink("LinearGradient") {
+                    LinearGradient(colors: [.white,.yellow], startPoint: .top, endPoint: .bottom)
+                        .ignoresSafeArea()
+                    
+                }
+                
+                NavigationLink("Radial Gradient"){
+                    RadialGradientS()
+                    
+                }
+                NavigationLink("AngularGradient") {
+                    AngularGradients()
+                }
+                NavigationLink("SimpleGradient"){
+                    SimpleGradient()
+                }
+                NavigationLink("MainApp"){
+                    StackingUpButtons()
+                }
+                
+            }
+
+            
+            
         }
-        .padding()
+        
+        
+        
+        
+//        RadialGradient(colors: [.blue,.green], center: .center, startRadius: 20, endRadius: 300)
+//            .ignoresSafeArea()
     }
 }
 
