@@ -21,9 +21,20 @@ Welcome to **Guess The Flag**, a fun and educational iOS game built using **Swif
   - Alert dialogs for game progress and scoring
 
 - 🧪 **SwiftUI Concepts Demonstrated**
-	•	@State for managing UI state
-	•	NavigationStack for view transitions
-	•	Custom views and UI components
-	•	Gradient styling with SwiftUI’s LinearGradient, RadialGradient, and AngularGradient
-	•	Image rendering and layout
-	•	Alerts and game logic using SwiftUI’s native components
+  	- @State for managing UI state
+  	- NavigationStack for view transitions
+	- Custom views and UI components
+	- Gradient styling with SwiftUI’s LinearGradient, RadialGradient, and AngularGradient
+	- Image rendering and layout
+	- Alerts and game logic using SwiftUI’s native components
+🚀 **Getting Started**
+
+**Requirements**
+	- Xcode 15 or higher
+	- iOS 17 or later
+	- Swift 5.9+
+
+** Running the App **
+	1.	Clone this repository
+	2.	Open the .xcodeproj or .xcodeworkspace file
+	3.	Build and run on a simulator or physical iOS device
